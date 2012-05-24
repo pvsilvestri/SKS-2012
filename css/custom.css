@@ -1,0 +1,269 @@
+body {
+	background: #CCCCCB;
+	color: #333333;
+}
+
+#page {
+	width: 980px;
+}
+
+#header {
+	background: #FF6702;
+	border-bottom: 10px solid white;
+}
+
+#header img {
+	float: left;
+}
+
+h1#site-name {
+	float: none;
+}
+
+#site-name a {
+	color: white;
+	margin-left: 10px;
+}
+
+#main {
+	float: left;
+	width: 100%;
+}
+
+#menu {
+	background: #B81318;
+	border-bottom: 5px solid #E0681D;
+	float: left;
+	height: 40px;
+	margin-top: -10px;
+	width: 100%;
+}
+
+#block-nice_menus-1 ul.nice-menu li {
+	background: #B81318;
+	border-bottom: none;
+	border-right: 1px solid black;
+	font-size: 12pt;
+	font-style: italic;
+	font-weight: bold;
+	height: 38px;
+	text-align: center;
+	width: 161px;
+}
+
+#block-nice_menus-1 a:link, a:visited {
+	color: #FFF8C6;
+}
+
+#block-nice_menus-1 li a.active {
+	color: white;
+}
+
+#block-nice_menus-1 ul.nice-menu-down li.menuparent {
+	background: #B81318;
+}
+
+#block-nice_menus-1 ul.nice-menu li:hover {
+	background: #E0681D;
+}
+
+#block-nice_menus-1 ul.nice-menu-down li.menuparent:hover {
+	background: #E0681D;
+}
+
+#block-nice_menus-2 ul.nice-menu li {
+        background: #B81318;
+        border-bottom: none;
+        border-right: 1px solid black;
+        font-size: 13pt;
+        font-style: italic;
+        font-weight: bold;
+	margin-top: 10px;
+        text-align: center;
+	width: 190px;
+}
+
+#block-nice_menus-2 a:link, a:visited {
+        color: #FFF8C6;
+}
+
+#block-nice_menus-2 li a.active {
+        color: white;
+}
+
+#block-nice_menus-2 ul.nice-menu-down li.menuparent {
+        background: #B81318;
+}
+
+#block-nice_menus-2 ul.nice-menu li:hover {
+        background: #E0681D;
+}
+
+#block-nice_menus-2 ul.nice-menu-down li.menuparent:hover {
+        background: #E0681D;
+}
+
+#block-nice_menus-3 ul.nice-menu li {
+        background: #B81318;
+        border-bottom: none;
+        border-right: 1px solid black;
+        font-size: 13pt;
+        font-style: italic;
+        font-weight: bold;
+	margin-top: 10px;
+        text-align: center;
+	width: 180%;
+}
+
+#block-nice_menus-3 a:link, a:visited {
+        color: #FFF8C6;
+}
+
+#block-nice_menus-3 li a.active {
+        color: white;
+}
+
+#block-nice_menus-3 ul.nice-menu-down li.menuparent {
+        background: #B81318;
+}
+
+#block-nice_menus-3 ul.nice-menu li:hover {
+        background: #E0681D;
+}
+
+#block-nice_menus-3 ul.nice-menu-down li.menuparent:hover {
+        background: #E0681D;
+}
+
+#block-block-2 {
+	margin-bottom: -15px;
+}
+
+#block-block-10 {
+  	margin-top: 10px;
+}
+
+#block-block-10 p {
+	text-align: center;
+}
+
+#block-block-11 {
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: #B81318;
+}
+
+#footer {
+	background: #E0681D;
+	border-top: 1px solid #B81318;
+	color: #F2F2F2;
+	font-size: 0.9em;
+	height: 75px;
+}
+
+#footer p {
+	margin: 0;
+}
+
+#footer a {
+ 	color: #F2F2F2;
+}
+
+h2#site-slogan {
+	color: black;
+	float: left;
+	font-style: italic;
+	margin-left: 10px;
+	margin-top: -15px;
+	width: 500px;
+}
+
+#contact-info {
+	color: #FFFFFF;
+	float: right;
+	font-size: 16pt;
+	margin-right: 60px;
+	margin-top: -15px;
+	text-align: right;
+}
+
+#contact-info p {
+	margin-top: -15px;
+}
+
+#contact-info .email {
+	color: #FFFFFF;
+	font-size: 0.85em;
+	text-decoration: underline;
+}
+
+#home-left {
+	float: left;
+	height: 635px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 300px;
+}
+
+#home-right {
+	float: left;
+	width: 600px;
+}
+
+#right-photos {
+	float: left;
+	height: 300px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 600px;
+}
+
+#right-special {
+	background: #FF6702;
+	border: 1px solid black;
+	float: left;
+	height: 298px;
+	margin-left: 7px;
+	margin-top: 10px;
+	width: 250px;
+}
+
+#right-map {
+	float: left;
+	height: 325px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 600px;
+}
+
+#block-block-3 {
+	text-align: center;
+}
+
+ul.quicktabs_tabs li {
+	background: lightBlue;
+	display: inline;
+	list-style-type: none;
+	margin-left: 10px;
+	padding: 2px;
+	white-space: nowrap;
+}
+
+div.block-quicktabs {
+	margin-left: 10px;
+	width: 300px;
+}
+
+p.address {
+	text-align: center;
+}
+
+a:active, a:visited {
+	color: blue;
+}

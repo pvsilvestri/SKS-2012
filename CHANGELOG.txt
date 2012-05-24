@@ -1,0 +1,6 @@
+Safe Keeping Storage, 6.x-1.0
+-----------------------------------
+- Start of Theme
+- Added custom.css file under /css for custom CSS code
+- Created page-front.tpl.php file for custom Front Page Layout
+

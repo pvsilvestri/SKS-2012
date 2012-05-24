@@ -1,0 +1,42 @@
+name = SKS 2012
+description = SKS 2012 Drupal Theme.  (C) 2012 Silvestri Consulting, LLC
+screenshot = screenshot.png
+engine = phptemplate
+core = "6.x"
+
+regions[header] = Header
+regions[menu] = Menu
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content_top] = Content Top
+regions[content_bottom] = Content Bottom
+regions[fat_footer] = Fat Footer
+regions[footer_links] = Footer Links
+
+regions[home_left] = Home Left
+regions[right_photos] = Right Home Page Photos
+regions[right_special] = Right Home Page Specials
+regions[right_map] = Right Home Page Map
+
+features[] = name
+features[] = slogan
+features[] = mission
+features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = secondary_links
+
+;disabled features, uncomment to activate
+;features[] = logo
+;features[] = node_user_picture
+;features[] = comment_user_picture
+
+stylesheets[all][] = style.css
+stylesheets[all][] = css/tabs.css
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/ui.css
+stylesheets[all][] = css/main.css
+;stylesheets[all][] = css/link-icons.css
+;stylesheets[all][] = css/gallery.css
+stylesheets[print][] = css/print.css
+stylesheets[all][] = css/custom.css
